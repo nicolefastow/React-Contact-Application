@@ -2,7 +2,7 @@
   "name": "visa-contact-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nicolefastow.github.io/React-Contact-Application/",
+  "homepage": "https://nicolefastow.github.io/React-Contact-Application/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
